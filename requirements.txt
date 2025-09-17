@@ -1,0 +1,26 @@
+# GUI Framework
+PyQt6==6.9.1
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+
+# Environment Management
+python-dotenv==1.0.0
+
+# Data Validation
+pydantic==2.5.3
+
+# Utilities
+pandas==2.1.4
+openpyxl==3.1.2  # For Excel export
+reportlab==4.0.8  # For PDF reports
+
+# Development Tools (optional)
+pytest==7.4.3
+pytest-qt==4.2.0
+black==23.12.1
+flake8==6.1.0
+
+# Logging
+structlog==23.2.0
